@@ -60,15 +60,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prithigap&show_icons=true&theme=radical" alt="Prithiga's GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prithigap&show_icons=true&theme=radical&hide=issues&hide_border=true&count_private=true&line_height=24" alt="Prithiga's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithigap&theme=radical&hide_border=true" alt="Prithiga's GitHub streak" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prithigap&theme=radical" alt="Prithiga's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prithigap&theme=radical&row=1&column=7" alt="Prithiga's GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prithigap&theme=radical&row=1&column=4&margin-w=15&margin-h=15" alt="Prithiga's GitHub trophies" />
 </p>
 
 <p align="center">
